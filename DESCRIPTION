@@ -17,3 +17,9 @@ RoxygenNote: 7.1.1
 Suggests: 
     spelling
 Language: en-US
+Imports: 
+    dplyr,
+    purrr,
+    magrittr,
+    tibble,
+    ggplot2
